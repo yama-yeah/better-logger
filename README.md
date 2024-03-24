@@ -11,7 +11,7 @@ pip install better-logger
 ## Easy to use!
 BetterLogger creates beautiful logs easily by writing.  
 For detailed source code, please click [here](https://github.com/yama-yeah/better-logger/blob/main/example/example.py).
-```
+```python
 from logging import StreamHandler, getLogger
 import logging
 
