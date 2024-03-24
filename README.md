@@ -1,6 +1,7 @@
 # better-logger
 BetterLogger is a simple and powerful logging package that makes it easy to display logs.  
 It runs on python 3.8 or higher and can be used in the same way as Logging.
+<img width="1031" alt="Screenshot 2024-03-25 at 2 10 38" src="https://github.com/yama-yeah/better-logger/assets/82094614/a767ae94-7488-4187-8bcc-22bc42cbe859">
 
 ## How to Install
 ```
