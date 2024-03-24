@@ -28,6 +28,8 @@ logger.addHandler(stream_handler)
 
 better_logger=BetterLogger(logger)
 better_logger.debug('debug message')
+better_logger.debug('debug message',header_text='debug with header')
+better_logger.debug('debug message',header_text='debug with traceback',use_traceback=True)
 better_logger.info(very_long_response,header_text='very_long_info')
 better_logger.warning('warning message')
 try:
