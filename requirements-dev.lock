@@ -5,10 +5,15 @@
 #   pre: false
 #   features: []
 #   all-features: false
+#   with-sources: false
 
 -e file:.
 iniconfig==2.0.0
+    # via pytest
 packaging==24.0
+    # via pytest
 pluggy==1.4.0
+    # via pytest
 pytest==8.1.1
 wcwidth==0.2.13
+    # via better-loggers

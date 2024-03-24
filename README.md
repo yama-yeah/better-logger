@@ -5,7 +5,7 @@ It runs on python 3.8 or higher and can be used in the same way as Logging.
 
 ## How to Install
 ```
-pip install better-logger
+pip install better-loggers
 ```
 
 ## Easy to use!

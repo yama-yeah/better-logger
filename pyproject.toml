@@ -1,7 +1,8 @@
 [project]
-name = "better-logger"
-version = "0.1.0"
-description = "Add your description here"
+name = "better-loggers"
+version = "1.0.1"
+
+description = "BetterLogger is a simple and powerful logging package that makes it easy to display logs."
 authors = [
     { name = "yama-yeah", email = "b1021091@fun.ac.jp" }
 ]
